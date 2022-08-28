@@ -5,3 +5,5 @@ The Employee accounts are only able to add a quantity of a product they cant alt
 All transactions are monitored and recorded by the system.
 System also shows how ,uch of stock is left.
 The admin can add or delete Employee accounts,they are also responsible for setting the prices for product. 
+Youtube Link:
+The main COMPLETED Files are inside ShopRite IA folder
